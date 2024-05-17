@@ -32,4 +32,19 @@ The main steps involved in the project are:
 
 - Python 3.x
 - Pandas
--
+- NumPy
+- scikit-learn
+
+### Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/your-username/diabetes-prediction.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd diabetes-prediction
+    ```
+3. Install the required packages:
+    ```sh
+    pip install -r requirements.txt
